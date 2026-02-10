@@ -80,5 +80,5 @@ Linux
 
 ## Contact
 
-LinkedIn: [linkedin.com/in/iamakamen](https://www.linkedin.com/in/iamakamen/)
-Email: [iamakamen@duck.com](mailto:iamakamen@duck.com)
+LinkedIn: [linkedin.com/in/iamakamen](https://www.linkedin.com/in/iamakamen/)  
+Email: [iamakamen@duck.com](mailto:iamakamen@duck.com)  
