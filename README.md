@@ -69,7 +69,7 @@ graph TD
 
 ## Technology Stack
 
-Python, Java, Go, SQL  
+Python  
 Apache Kafka  
 Spark Structured Streaming  
 Prometheus & Grafana  
